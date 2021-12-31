@@ -6,4 +6,4 @@
 
 ## 📊 Mes stats github
 
-![stats](https://github.com/Zoxa14/github-stats/blob/master/generated/overview.svg)
+![stats](https://github.com/Zoxa14/github-stats/blob/master/generated/languages.svg)
