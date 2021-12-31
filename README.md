@@ -1,10 +1,9 @@
-# 👋 Hey, je suis Zoxa
+# 👋 Hello I'm Zoxa14
 
 ## Qui suis-je ?
-💎 - Dev js, ts, C++, html, css, php
 
-### Quelle language j'apprend actuellement ?
-Mystery ^^
+#### Professionel dans le domaine du code
 
-### Sur quel projet je travaille en ce moment ?
-🤗 - Pour l'instant je garde mes projets priver ^^
+## 📊 Mes stats github
+
+![](https://github.com/Zoxa14/github-stats/blob/master/generated/overview.svg)
