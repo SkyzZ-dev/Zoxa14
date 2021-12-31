@@ -6,4 +6,8 @@
 
 ## 📊 Mes stats github
 
-![stats](https://github.com/Zoxa14/github-stats/blob/master/generated/languages.svg)
+[![Zoxa14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoxa14&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Mes stats Wakatime
+
+[![Zoxa14's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zoxa14)](https://github.com/anuraghazra/github-readme-stats)
