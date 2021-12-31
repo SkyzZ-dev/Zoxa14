@@ -4,10 +4,13 @@
 
 #### Professionel dans le domaine du code
 
-## 📊 Mes stats github
+## 📊 Mes stats
 
-[![Zoxa14's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoxa14&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zoxa14&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Zoxa14&show_icons=true&theme=nightowl" />
+</a>
 
-## Mes stats Wakatime
-
-[![Zoxa14's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zoxa14)](https://github.com/anuraghazra/github-readme-stats)
+## Languages de programmations que j'utilise
