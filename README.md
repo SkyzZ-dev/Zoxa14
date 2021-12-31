@@ -46,4 +46,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Xiaotoxdev">
 </a>
-<a href="https://github.com/Xiaotoxdev?tab=followers"><img src="https://img.shields.io/github/followers/Xiaotoxdev?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Zoxa14?tab=followers"><img src="https://img.shields.io/github/followers/Zoxa14?label=Followers&style=social" alt="GitHub Badge"></a>
