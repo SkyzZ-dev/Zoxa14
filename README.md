@@ -42,3 +42,8 @@
 ## » Je suis sur
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Xiaotoxdev">
+</a>
+<a href="https://github.com/Xiaotoxdev?tab=followers"><img src="https://img.shields.io/github/followers/Xiaotoxdev?label=Followers&style=social" alt="GitHub Badge"></a>
