@@ -2,7 +2,7 @@
 
 ## Qui suis-je ?
 
-#### Professionel dans le domaine du code
+#### Quelqun qui adore l'informatique dans le domaine du code
 
 ## 📊 Mes stats
 
